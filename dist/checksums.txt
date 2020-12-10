@@ -1,0 +1,5 @@
+24d24038fa2215171b0131e595f3c97576a4a8ed0ebbbbc946f9953acd8db633  go-psutil-test_v0.0.0-next_Darwin_x86_64.tar.gz
+47535cb058c809696ecfe178ebad23b61b7b919d92d3ce2861a982e688ef1705  go-psutil-test_v0.0.0-next_Linux_i386.tar.gz
+50a07d0fcc6851db171f3e331b564be9b22b62745507ea28a9ace25eaeb84a39  go-psutil-test_v0.0.0-next_Linux_x86_64.tar.gz
+be2954b0d1431d44e232fb367275de1a9991c1998cefd1da5f564fa0814d567e  go-psutil-test_v0.0.0-next_Windows_i386.tar.gz
+ccbc061f18af0cf8e450f3f8179d23b92a5572a8fa20e1c8a753350616537b7a  go-psutil-test_v0.0.0-next_Windows_x86_64.tar.gz
